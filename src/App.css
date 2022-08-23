@@ -1,3 +1,21 @@
+#main{
+  display: flex;
+  width: 100vw;
+}
+.loading{
+  margin-left: 44vw;
+  margin-top: 25vh;
+}
+.userProfile{
+  margin: 5px;
+  padding: 10px;
+}
+.container-fluid{
+  height: 9vh;
+}
+
+
+
 .App {
   text-align: center;
 }
